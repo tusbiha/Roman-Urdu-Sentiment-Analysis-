@@ -14,12 +14,12 @@ The goal is to classify text as either Positive or Negative, providing insights 
 - **User Input Prediction:** Users can input their own sentences for real-time sentiment analysis.
 - **Comprehensive Evaluation:** Each model's performance is evaluated using precision, recall, and f1-score, providing a clear understanding of their effectiveness.
 
-##Dataset
+Dataset
 The dataset used for this project is Roman Urdu DataSet.csv, which contains Roman Urdu text along with sentiment labels. Preprocessing steps include:
 Removing emojis and correcting sentiment labels.
 Filtering out 'Neutral' sentiment values.
 
-##Results
+Results
 Each model's performance was evaluated on the test dataset, and the results are summarized as follows:
 
 Naive Bayes (Count Vectorizer)
